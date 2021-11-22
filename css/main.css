@@ -72,6 +72,20 @@ html {
   animation: none;
 }
 }
+
+@media (prefers-color-scheme: dark) {
+  body {
+  background: #111;
+}
+
+  .banner {
+  background: #333;
+}
+
+  .banner h1 {
+  color: #ccc;
+}
+}
 */
 
 /* stylelint-disable media-feature-name-no-unknown */
