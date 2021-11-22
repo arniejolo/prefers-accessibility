@@ -61,6 +61,19 @@ html {
 
 }
 
+/*
+@media (prefers-reduced-motion) {
+
+.gear-big {
+  animation: none;
+}
+
+.gear-small {
+  animation: none;
+}
+}
+*/
+
 /* stylelint-disable media-feature-name-no-unknown */
 
 /**
